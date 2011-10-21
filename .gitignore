@@ -1,0 +1,5 @@
+*.pyc
+produccio/var
+produccio/parts
+produccio/bin
+produccio/.installed.cfg
